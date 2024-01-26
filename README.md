@@ -10,4 +10,10 @@
 *git merge
 *git branch
 *git status
+*git cherry-pick
 
+## github linkup
+*Git push origin
+*Git push -u origin
+*Git remote
+*Git remote -v
